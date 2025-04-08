@@ -9,5 +9,4 @@
   <img src="https://img.shields.io/badge/Power%20BI-2C3E50?style=for-the-badge&logo=powerbi&logoColor=yellow" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lucid-FF5733?style=for-the-badge&logo=lucidchart&logoColor=white" />
 </p>
